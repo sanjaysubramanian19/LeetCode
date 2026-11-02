@@ -34,4 +34,12 @@ This repository represents my learning journey in Data Structures and Algorithms
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanjaysubramanian19/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## String
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanjaysubramanian19/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Backtracking
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanjaysubramanian19/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
