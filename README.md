@@ -37,9 +37,18 @@ This repository represents my learning journey in Data Structures and Algorithms
 ## String
 |  |
 | ------- |
+| [0385-mini-parser](https://github.com/sanjaysubramanian19/LeetCode/tree/master/0385-mini-parser) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanjaysubramanian19/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanjaysubramanian19/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Stack
+|  |
+| ------- |
+| [0385-mini-parser](https://github.com/sanjaysubramanian19/LeetCode/tree/master/0385-mini-parser) |
+## Depth-First Search
+|  |
+| ------- |
+| [0385-mini-parser](https://github.com/sanjaysubramanian19/LeetCode/tree/master/0385-mini-parser) |
 <!---LeetCode Topics End-->
